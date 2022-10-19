@@ -69,7 +69,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
+        quote: 
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           My PhD researches state of the art deep learning techniques in order to apply these in a medical setting. I am currently trying to predict a colocrectal cancer patient's response to radiotherapy from digital histology slides taken from tissue biopsies. To do this, I am developing techniques to enhance the context of the histology images, using the tissue morphology to aid predictions. I am exploring ways in which we can make such predictions more interpretable to clinicians, in order to move towards clinical translation of a deep learning model.
@@ -121,7 +121,7 @@ content:
         caption: 2014 - 2018
         sub_title: MMath Mathematics
         quote: >
-          The University of St Andrews ranks 1st in 2023 Guardian University Guide league table overall, and 2nd for Mathematics.
+          The University of St Andrews ranks 1st in the 2023 Guardian University Guide league table overall, and 2nd for Mathematics.
         description: | # this will include new lines to allow paragraphs
           Description - First
 
