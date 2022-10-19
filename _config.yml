@@ -32,7 +32,7 @@ orcid_username: 0000−0001−9916−888X
 # Additional icon links
 additional_links:
 - title: Ruby Wood BDI
-  icon: fas fa-building-columns
+  icon: fas fa-regular fa-building-columns
   url: https://www.bdi.ox.ac.uk/Team/ruby-wood
 - title: Ruby Wood OxWoCS
   icon: fas fa-venus
@@ -64,12 +64,12 @@ content:
     content:
       - layout: top-middle
         title: Predicting a colorectal cancer patient's response to radiotherapy using deep learning techniques
-        link: https://eng.ox.ac.uk/people/ruby-wood/
-        link_text: My Oxford Engineering Profile
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
+        #link: https://eng.ox.ac.uk/people/ruby-wood/
+        #link_text: My Oxford Engineering Profile
+        additional_links:
+          - title:  Oxford Engineering Profile
+            icon: images/oxenglogo.png
+            url: https://eng.ox.ac.uk/people/ruby-wood/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
