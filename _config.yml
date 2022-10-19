@@ -114,7 +114,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: St Andrews University
+        title: University of St Andrews
         caption: 2014 - 2018
         sub_title: MMath Mathematics
         quote: >
