@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/RWprofile.jpeg
+about_profile_image: images/RWProfile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Ruby, a Health Data Science CDT DPhil student at the University of Oxford. I am currently working in the Quantitative Biomedical Imaging research group, using deep learning techniques to predict how a cancer patient will respond to treatment. I am funded by Cancer Research UK.
   
