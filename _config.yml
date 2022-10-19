@@ -100,13 +100,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: JP Morgan
+        title: JPMorgan
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: Dates
         quote: >
-          Company Description - emphasis on tech
+          JPMorgan is not just a financial institution, but is one of the world's biggest technology driven companies.
         description: | # this will include new lines to allow paragraphs
           Java
 
