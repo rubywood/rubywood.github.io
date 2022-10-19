@@ -65,7 +65,7 @@ content:
       - layout: top-middle
         title: Predicting a colorectal cancer patient's response to radiotherapy using deep learning techniques
         link: https://eng.ox.ac.uk/people/ruby-wood/
-        link_text: | 
+        caption: | 
          ![alt text](images/oxenglogo.png "Oxford Engineering Profile")
         #additional_links:
         #  - title:  Oxford Engineering Profile
