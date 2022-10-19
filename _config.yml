@@ -64,12 +64,12 @@ content:
     content:
       - layout: top-middle
         title: Predicting a colorectal cancer patient's response to radiotherapy using deep learning techniques
-        #link: https://eng.ox.ac.uk/people/ruby-wood/
-        #link_text: My Oxford Engineering Profile
-        additional_links:
-          - title:  Oxford Engineering Profile
-            icon: images/oxenglogo.png
-            url: https://eng.ox.ac.uk/people/ruby-wood/
+        link: https://eng.ox.ac.uk/people/ruby-wood/
+        link_text: ![alt text](images/oxenglogo.png "Oxford Engineering Profile")
+        #additional_links:
+        #  - title:  Oxford Engineering Profile
+        #    icon: 
+        #    url: https://eng.ox.ac.uk/people/ruby-wood/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -77,7 +77,7 @@ content:
         # quote: 
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          My PhD researches state of the art deep learning techniques in order to apply these in a medical setting. I am currently trying to predict a colocrectal cancer patient's response to radiotherapy from digital histology slides taken from tissue biopsies. To do this, I am developing techniques to enhance the context of the histology images, using the tissue morphology to aid predictions. I am exploring ways in which we can make such predictions more interpretable to clinicians, in order to move towards clinical translation of a deep learning model.
+          My PhD researches state of the art deep learning techniques in order to apply these in a medical setting. I am currently trying to predict a colocrectal cancer patient's response to radiotherapy from digital histology slides taken from tissue biopsies. To do this, I am developing techniques to enhance the context of the histology images, using the tissue morphology to aid predictions. I am exploring ways in which we can make such predictions more interpretable to clinicians, in order to move towards clinical translation of such a deep learning model.
 
 
   - title: Publications # Title for the section
