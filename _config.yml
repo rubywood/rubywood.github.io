@@ -32,7 +32,7 @@ orcid_username: 0000−0001−9916−888X
 # Additional icon links
 additional_links:
 - title: Ruby Wood BDI
-  icon: fas fa-regular fa-building-columns
+  icon: fas fa-user
   url: https://www.bdi.ox.ac.uk/Team/ruby-wood
 - title: Ruby Wood OxWoCS
   icon: fas fa-venus
