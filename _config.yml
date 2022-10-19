@@ -79,21 +79,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        sub_title: Paper Name
-        link: Paper Link
-        # link_text: boringcompany.com
+        sub_title: Enhancing Local Context of Histology Features in Vision Transformers
+        link: https://link.springer.com/book/9783031196614
+        link_text: Paper Link
         # sub_title: Senior Network System Administrator
-        caption: Authors
+        caption: Ruby Wood, Korsuk Sirinukunwattana, Enric Domingo, Alexander Sauer, Maxime W Lafarge, Viktor H Koelzer, Timothy S Maughan and Jens Rittscher
+        caption: MICCAI MIABID Workshop 2022
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Abstract
+          Predicting complete response to radiotherapy in rectal cancer patients using deep learning approaches from morphological features extracted from histology biopsies provides a quick, low-cost and effective way to assist clinical decision making. We propose adjustments to the Vision Transformer (ViT) network to improve the utilisation of contextual information present in whole slide images (WSIs). Firstly, our position restoration embedding (PRE) preserves the spatial relationship between tissue patches, using their original positions on a WSI. Secondly, a clustering analysis of extracted tissue features explores morphological motifs which capture fundamental biological processes found in the tumour micro-environment. This is introduced into the ViT network in the form of a cluster label token, helping the model to differentiate between tissue types. The proposed methods are demonstrated on two large independent rectal cancer datasets of patients selectively treated with radiotherapy and capecitabine in two UK clinical trials. Experiments demonstrate that both models, PREViT and ClusterViT, show improvements in the prediction over baseline models.
       - layout: top-middle
-        sub_title: Paper 2 Name
-        link: Paper 2 Link
-        caption: Authors
+        sub_title: Predicting Molecular Traits from Tissue Morphology Through Self-interactive Multi-instance Learning
+        link: https://link.springer.com/chapter/10.1007/978-3-031-16434-7_13
+        link_text: Paper Link
+        caption: Yang Hu, Korsuk Sirinukunwattana, Kezia Gaitskell, Ruby Wood, Clare Verrill and Jens Rittscher
+        caption: MICCAI 2022
         description: | # this will include new lines to allow paragraphs
-          Abstract
+          Previous efforts to learn histology features that correlate with specific genetic/molecular traits resort to tile-level multi-instance learning (MIL) which relies on a fixed pretrained model for feature extraction and an instance-bag classifier. We argue that such a two-step approach is not optimal at capturing both fine-grained features at tile level and global features at slide level optimal to the task. We propose a self-interactive MIL that iteratively feedbacks training information between the fine-grained and global context features. We validate the proposed approach on 4 subtyping tasks: EMT status (ovarian), KRAS mutation (colon and lung), EGFR mutation (colon), and HER2 status (breast). Our approach yields an average improvement of 7.05%−8.34% (in terms of AUC) over the baseline.
 
 
   - title: Experience # Title for the section
