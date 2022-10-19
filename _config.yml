@@ -27,7 +27,7 @@ linkedin_username: rubywood
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+orcid_username: 0000−0001−9916−888X
 
 # Additional icon links
 additional_links:
@@ -61,7 +61,7 @@ content:
       - layout: top-middle
         title: Predicting a colorectal cancer patient's response to radiotherapy using deep learning techniques
         link: https://eng.ox.ac.uk/people/ruby-wood/
-        link_text: Oxford Engineering Profile
+        link_text: My Oxford Engineering Profile
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
         #    icon: fab fa-github
