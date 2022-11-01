@@ -113,9 +113,10 @@ content:
         sub_title: Software Engineer
         caption: 2018 - 2020
         quote: >
-          JPMorgan is not just a financial institution, but is one of the world's biggest technology driven companies.
+          JPMorgan is a financial institution and one of the world's biggest technology driven companies.
         description: | # this will include new lines to allow paragraphs
-          Java
+          I started off at JP Morgan training as a software engineer, learning software development in Java and other languages such as Angular, JavaScript and HTML. Following that, within my permanent role I developed applications in Java with Spring, and developed machine learning solutions with AWS SageMaker and other AWS services.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -127,7 +128,7 @@ content:
         quote: >
           The University of St Andrews ranks 1st in the 2023 Guardian University Guide league table overall, and 2nd for Mathematics.
         description: | # this will include new lines to allow paragraphs
-          Description - First
+          Received a First Class integrated Masters of Mathematics degree, with a focus on statistics. My MMath dissertation, 'Comparing Classical Clustering Approaches with Bayesian Partitioning', won the University of St Andrews Duncan Prize for performance in Statistics in Senior Honours Year.
 
   #- title: A Little More About Me
   #  layout: text
