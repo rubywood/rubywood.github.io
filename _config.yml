@@ -115,7 +115,7 @@ content:
         quote: >
           JPMorgan is a financial institution and one of the world's biggest technology driven companies.
         description: | # this will include new lines to allow paragraphs
-          I started off at JP Morgan training as a software engineer, learning software development in Java and other languages such as Angular, JavaScript and HTML. Following that, within my permanent role I developed applications in Java with Spring, and developed machine learning solutions with AWS SageMaker and other AWS services.
+          Trained as a software engineer, learning software development in Java and other languages such as Angular, JavaScript and HTML. Within my permanent role I developed applications in Java with Spring, and developed machine learning solutions with AWS SageMaker and other AWS services.
 
 
   - title: Education # Title for the section
