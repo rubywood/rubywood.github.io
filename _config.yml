@@ -86,7 +86,7 @@ content:
     content:
       - layout: top-middle
         title: Enhancing Local Context of Histology Features in Vision Transformers
-        link: https://link.springer.com/book/9783031196614
+        link: https://link.springer.com/chapter/10.1007/978-3-031-19660-7_15
         link_text: Paper Link
         sub_title: Ruby Wood, Korsuk Sirinukunwattana, Enric Domingo, Alexander Sauer, Maxime W Lafarge, Viktor H Koelzer, Timothy S Maughan and Jens Rittscher 
         caption: MICCAI MIABID Workshop 2022
