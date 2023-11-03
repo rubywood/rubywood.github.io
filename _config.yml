@@ -54,7 +54,8 @@ about_profile_image: images/RWProfile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Ruby, a Health Data Science CDT DPhil student at the University of Oxford. I am currently working in the Quantitative Biomedical Imaging research group, using deep learning imaging techniques to predict how a cancer patient will respond to treatment. My research is funded by Cancer Research UK.
   
-  I am also a big advocate for women in STEM, and am passionate about improving the representation of women in our fields. This year I am the Vice President of Oxford Wom*n in Computer Science, and am an ongoing instructor for Code First Girls, a charity that teaches women how to code.
+  I am also a big advocate for women in STEM, and am passionate about improving the representation of women in our fields. 
+  I am heavily involved in the Oxford Wom*n in Computer Science Society, previously as Vice President and currently as Treasurer.
 
   I am most skilled in: <mark>Deep Learning</mark> and coding (<mark>Python</mark>, <mark>Java</mark>).
 
@@ -84,6 +85,14 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Joint Prediction of Response to Therapy, Molecular Traits, and Spatial Organisation in Colorectal Cancer Biopsies
+        link: https://link.springer.com/chapter/10.1007/978-3-031-43904-9_73
+        link_text: Paper Link
+        sub_title: Ruby Wood, Enric Domingo, Korsuk Sirinukunwattana, Maxime W. Lafarge, Viktor H. Koelzer, Timothy S. Maughan and Jens Rittscher
+        caption: MICCAI 2023
+        description: | # this will include new lines to allow paragraphs
+          Existing methods for interpretability of model predictions are largely based on technical insights and are not linked to clinical context. We use the question of predicting response to radiotherapy in colorectal cancer patients as an exemplar for developing prediction models that do provide such contextual information and therefore can effectively support clinical decision making. There is a growing body of evidence that about 30% of colorectal cancer patients do not respond to radiotherapy and will need alternative treatment. The consensus molecular subtypes for colorectal cancer (CMS) provide one such approach to categorising patients based on their disease biology. Here we select the CMS4 subtype as a proxy for stromal infiltration. By jointly predicting a patient's response to radiotherapy, the presence of CMS4, and the epithelial tissue map from morphological features extracted from standard H&E slides we provide a comprehensive clinically relevant assessment of a biopsy. A graph neural network is trained to achieve this joint prediction task, which subsequently provides novel interpretability maps to aid clinicians in their cancer treatment decision making process. Our model is trained and validated on two private rectal cancer datasets.
       - layout: top-middle
         title: Enhancing Local Context of Histology Features in Vision Transformers
         link: https://link.springer.com/chapter/10.1007/978-3-031-19660-7_15
